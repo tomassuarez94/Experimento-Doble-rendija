@@ -46,8 +46,9 @@ Para las simulaciones utilizamos un modelo mátematico basado en los grafos del 
 ![](Imagenes/2.jpeg)
 ![](Imagenes/3.jpeg)
 
-https://user-images.githubusercontent.com/123709637/223310531-39489641-728f-4e80-bd08-89c4f52b0133.mp4
+![IMG_20230306_221216](https://user-images.githubusercontent.com/123709637/223311211-b9a7e4ee-e6fb-4bf6-ae4d-7ad01d2a9a56.jpg)
 
+https://user-images.githubusercontent.com/123709637/223311279-c751c1d6-5556-4a12-ae6a-627f941b4363.mp4
 
 
 ## Autores
