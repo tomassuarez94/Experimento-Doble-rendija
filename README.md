@@ -42,7 +42,10 @@ Para las simulaciones utilizamos un modelo mátematico basado en los grafos del 
 
 
 ## Resultado 
-![](Imagenes/1.jpeg)
+
+
+![1](https://user-images.githubusercontent.com/123709637/223311533-e869779b-3af3-4237-8bf1-ff7eb8bd3891.jpeg)
+
 ![](Imagenes/2.jpeg)
 ![](Imagenes/3.jpeg)
 
