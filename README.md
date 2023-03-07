@@ -43,6 +43,8 @@ Para las simulaciones utilizamos un modelo mátematico basado en los grafos del 
 
 ## Resultado 
 ![](Imagenes/1.jpeg)
+![](Imagenes/2.jpeg)
+![](Imagenes/3.jpeg)
 
 
 
