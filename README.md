@@ -42,7 +42,7 @@ Para las simulaciones utilizamos un modelo mátematico basado en los grafos del 
 
 
 ## Resultado 
-https://raw.githubusercontent.com/tomassuarez94/Experimento-Doble-rendija/master/imagenes/WhatsAppImage2023-03-06at8.39.37PM(1).jpeg
+![](https://github.com/tomassuarez94/Experimento-Doble-rendija/tree/main/Imagenes){width='100px'}
 
 
 
