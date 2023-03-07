@@ -13,7 +13,8 @@ Al encender el laser y apuntarlo hacia la rendija estamos enviando una increible
 Para las simulaciones utilizamos un modelo mátematico basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería de complejos java importando la libreria del github http://github.com/AlejandroBohal
 
 **Explicación e imágenes**
-![1](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/1.png)
+![image](https://user-images.githubusercontent.com/123709637/223581545-e578500d-9290-4947-afd5-a522e4290565.png)
+
 ![2](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/2.png)
 ![3](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/3.png)
 ![4](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/4.png)
