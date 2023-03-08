@@ -13,13 +13,66 @@ Al encender el laser y apuntarlo hacia la rendija estamos enviando una increible
 Para las simulaciones utilizamos un modelo mátematico basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería de complejos java importando la libreria del github http://github.com/AlejandroBohal
 
 **Explicación e imágenes**
+En el siguiente gráfo veremos dos modelos: uno con coeficientes reales y otro con coeficientes complejos
 ![image](https://user-images.githubusercontent.com/123709637/223581545-e578500d-9290-4947-afd5-a522e4290565.png)
 
-![2](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/2.png)
-![3](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/3.png)
-![4](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/4.png)
-![5](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/5.png)
-![6](https://raw.githubusercontent.com/andresro30/ExperimentoDobleRendija-CNYT/master/imagenes/6.png)
+**Codigo**
+Haciendo uso de la anterior libreria podemos crear una función que simule los estados del sistema y sus probabilidades 
+
+
+![image](https://user-images.githubusercontent.com/123709637/223599022-5784214c-c6a8-41cd-b2c0-51189965958b.png)
+
+
+**1 click**
+Acá podemos apreciar el resultado del estado y su probabilidad luego de un click
+
+
+![image](https://user-images.githubusercontent.com/123709637/223600379-c988bc90-6c26-4fc3-ae7b-447cc74a918a.png)
+
+Estado:
+
+![image](https://user-images.githubusercontent.com/123709637/223592554-cb484ac5-8a97-496e-b073-b51384e81765.png)
+ 
+ Probabilidad:
+ 
+![image](https://user-images.githubusercontent.com/123709637/223592784-96390c3f-0bdc-46ca-b064-7a4c506653c3.png)
+
+
+**2 click**
+
+Estado:
+
+![image](https://user-images.githubusercontent.com/123709637/223599242-17e0fa73-98fc-4aa9-920b-a39e700431ab.png)
+
+Probabilidad:
+
+![image](https://user-images.githubusercontent.com/123709637/223599636-ddc3ad5a-ad89-4aa5-96e5-f25c076a16af.png)
+
+**Coeficientes complejos**
+
+![image](https://user-images.githubusercontent.com/123709637/223602102-d2af975d-8ce4-4cd3-831f-97395ae08ba4.png)
+
+**1 click**
+
+Estado
+
+![image](https://user-images.githubusercontent.com/123709637/223602384-8d28c810-bb5a-4b15-a487-546416c73d37.png)
+
+Probabilidad
+
+![image](https://user-images.githubusercontent.com/123709637/223602323-ed9bc715-9134-480d-b507-bb9eddd27a3a.png)
+
+**2 click**
+
+Estado
+
+![image](https://user-images.githubusercontent.com/123709637/223602920-3ed5cda6-f18c-4e76-af0b-538b570af20a.png)
+
+
+Probabilidad
+
+![image](https://user-images.githubusercontent.com/123709637/223603021-d91f0e8f-3d40-4039-93e5-e8531361d688.png)
+
 
 ## Construcción 
 **Materiales:**
