@@ -110,4 +110,7 @@ https://user-images.githubusercontent.com/123709637/223311279-c751c1d6-5556-4a12
 
 ## Autores
 Tomas Suarez
+
 Hernan Sanchez
+
+Yonatan Yesid Suarez
