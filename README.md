@@ -100,7 +100,8 @@ Probabilidad
 
 ## Resultado 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/123709637/224082280-cea8dbd3-0c0d-4b0c-8e7f-6c5062ce527f.png)
+
 
 
 
