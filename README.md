@@ -94,9 +94,13 @@ Probabilidad
 
 **Imagenes**
 
+![image](https://user-images.githubusercontent.com/123709637/224081911-d8d9f538-5a30-4281-88a8-4747453e7847.png)
+![image](https://user-images.githubusercontent.com/123709637/224082111-7082b6c6-3a2d-4949-99cc-408343b1ddf8.png)
+
 
 ## Resultado 
 
+![Uploading image.png…]()
 
 
 
@@ -106,4 +110,4 @@ Tomas Suarez
 
 Hernan Sanchez
 
-Yonatan Yesid Suarez
+Jonatan Yesid Suarez
