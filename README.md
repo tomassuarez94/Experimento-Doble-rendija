@@ -77,11 +77,11 @@ Probabilidad
 
 ## Construcción 
 **Materiales:**
-* Caja de carton 
+* Carton paja
 * Un laser
 * Bisturi 
 * Aluminio  
-* Cartulina negra 
+* Palos de balso 
 * Pegamento
 
 **Pasos:**
@@ -89,9 +89,8 @@ Probabilidad
 * Con ayuda del bisturi, en un rectángulo de carton creamos una ventana
 * En un cuadrado de tamaño proporcional a la anterior ventan, realizamos dos cortes paralalelos y con una distancia de no mayor a 0,3 mm 
 * Pegamos el cuadrado de aluminio a la ventana dejando así los cortes expuestos
-* En los laterales internos de la caja pegamos cartulina negra para reducir la luz
-* En el lado de la caja en el cual se verá reflejado el experimento pegamos una hoja blanca de papel
-* Ubicamos el laser de manera que podamos apreciar el efecto de la doble rendija para luego fijarlo a essta posción.
+* Construimos una estructura para poner las placas de aluminio y reflejar la doble rendija en el carton
+
 
 **Imagenes**
 
@@ -99,14 +98,7 @@ Probabilidad
 ## Resultado 
 
 
-![1](https://user-images.githubusercontent.com/123709637/223311533-e869779b-3af3-4237-8bf1-ff7eb8bd3891.jpeg)
 
-![](Imagenes/2.jpeg)
-![](Imagenes/3.jpeg)
-
-![IMG_20230306_221216](https://user-images.githubusercontent.com/123709637/223311211-b9a7e4ee-e6fb-4bf6-ae4d-7ad01d2a9a56.jpg)
-
-https://user-images.githubusercontent.com/123709637/223311279-c751c1d6-5556-4a12-ae6a-627f941b4363.mp4
 
 
 ## Autores
