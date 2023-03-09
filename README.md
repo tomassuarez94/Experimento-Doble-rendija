@@ -10,8 +10,7 @@ Al encender el laser y apuntarlo hacia la rendija estamos enviando una increible
 
 
 ## Simulación 
-Para las simulaciones utilizamos un modelo mátematico basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería de complejos java importando la libreria del github http://github.com/AlejandroBohal
-
+Para las simulaciones utilizamos un modelo mátematico basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería de complejos java importando la libreria del github https://github.com/tomassuarez94/Libreria-Matrices-Numeros-Complejos
 **Explicación e imágenes**
 En el siguiente gráfo veremos dos modelos: uno con coeficientes reales y otro con coeficientes complejos
 ![image](https://user-images.githubusercontent.com/123709637/223581545-e578500d-9290-4947-afd5-a522e4290565.png)
